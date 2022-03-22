@@ -1,6 +1,6 @@
 <div align="center">
 
-### 👩‍💻 Hi, I'm Nita!
+### 👩‍💻 Hi, I'm Nita Lo!
   A passionate Software Developer with background in Fashion / Design
   
   📫 How to reach me nloyeltylo@gmail.com
