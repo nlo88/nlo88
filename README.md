@@ -1,8 +1,8 @@
 <div align="center">
 
 ### 👩‍💻 Hi, I'm Nita Lo!
-  A passionate Software Developer with background in Fashion / Design
-  
+ I am a Software Developer with background in Fashion / Design
+ 
   📫 How to reach me nloyeltylo@gmail.com
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nlo88&show_icons=true&theme=tokyonight)
