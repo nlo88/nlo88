@@ -1,7 +1,7 @@
 <div align="center">
 
 ### Hi, I'm Nita Lo!
-  👩‍💻 I am a Software Developer with background in Fashion / Design
+  👩‍💻 I am a Software Developer with creative domain experience. 
  
   📫 How to reach me nloyeltylo@gmail.com
   
